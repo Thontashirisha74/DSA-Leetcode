@@ -35,4 +35,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
