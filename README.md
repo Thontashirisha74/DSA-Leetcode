@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0041-first-missing-positive) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0595-big-countries) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
