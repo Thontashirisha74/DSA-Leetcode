@@ -87,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1291-sequential-digits) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
