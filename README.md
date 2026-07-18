@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0595-big-countries) |
+| [1280-students-and-examinations](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1280-students-and-examinations) |
 ## Queue
 |  |
 | ------- |
