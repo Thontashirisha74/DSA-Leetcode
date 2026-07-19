@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0414-third-maximum-number) |
 | [1089-duplicate-zeros](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1089-duplicate-zeros) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0414-third-maximum-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
