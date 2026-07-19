@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0011-container-with-most-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
@@ -97,4 +99,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0006-zigzag-conversion) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
