@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0012-integer-to-roman) |
+| [0058-length-of-last-word](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
