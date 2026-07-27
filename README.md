@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
