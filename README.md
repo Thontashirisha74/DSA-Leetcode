@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0217-contains-duplicate](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
