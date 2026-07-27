@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0268-missing-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
