@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0048-rotate-image) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0018-4sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1089-duplicate-zeros](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1089-duplicate-zeros) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
