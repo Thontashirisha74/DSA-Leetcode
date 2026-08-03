@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0067-add-binary) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 ## Combinatorics
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
