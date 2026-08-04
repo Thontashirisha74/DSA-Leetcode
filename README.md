@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0040-combination-sum-ii) |
 ## Linked List
 |  |
 | ------- |
