@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0268-missing-number) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Combinatorics
 |  |
 | ------- |
