@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0046-permutations) |
+| [0089-gray-code](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0089-gray-code) |
 ## Linked List
 |  |
 | ------- |
