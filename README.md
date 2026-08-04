@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0268-missing-number) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Combinatorics
 |  |
 | ------- |
