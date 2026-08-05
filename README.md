@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1089-duplicate-zeros](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1089-duplicate-zeros) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
