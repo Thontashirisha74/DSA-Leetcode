@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1089-duplicate-zeros](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1089-duplicate-zeros) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0268-missing-number) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0089-gray-code) |
+| [0202-happy-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -318,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0200-number-of-islands) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
