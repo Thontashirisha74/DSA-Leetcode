@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0130-surrounded-regions) |
 | [0217-contains-duplicate](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0268-missing-number) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0130-surrounded-regions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -268,4 +270,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0130-surrounded-regions) |
+## Depth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0130-surrounded-regions) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
