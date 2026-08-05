@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Combinatorics
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0046-permutations) |
 | [0089-gray-code](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Linked List
 |  |
 | ------- |
