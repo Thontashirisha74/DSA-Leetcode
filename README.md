@@ -275,11 +275,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0044-wildcard-matching) |
+| [0203-remove-linked-list-elements](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Bracket Sequences
 |  |
 | ------- |
