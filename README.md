@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -229,10 +230,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0120-triangle) |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0046-permutations) |
 | [0089-gray-code](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Linked List
 |  |
