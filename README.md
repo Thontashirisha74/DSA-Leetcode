@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0292-nim-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -391,4 +392,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
