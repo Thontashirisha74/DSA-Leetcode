@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0384-shuffle-an-array) |
 | [0414-third-maximum-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0414-third-maximum-number) |
 | [0654-maximum-binary-tree](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0658-find-k-closest-elements](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1014-best-sightseeing-pair](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1089-duplicate-zeros](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1089-duplicate-zeros) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1089-duplicate-zeros](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1089-duplicate-zeros) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0414-third-maximum-number) |
+| [0658-find-k-closest-elements](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0658-find-k-closest-elements) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0658-find-k-closest-elements](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0658-find-k-closest-elements](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Stack
 |  |
 | ------- |
@@ -351,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0658-find-k-closest-elements](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Merge Sort
 |  |
 | ------- |
