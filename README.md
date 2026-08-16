@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0414-third-maximum-number) |
 | [0654-maximum-binary-tree](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0661-image-smoother](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0661-image-smoother) |
 | [1014-best-sightseeing-pair](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1089-duplicate-zeros](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1089-duplicate-zeros) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0200-number-of-islands) |
+| [0661-image-smoother](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0661-image-smoother) |
 ## Dynamic Programming
 |  |
 | ------- |
