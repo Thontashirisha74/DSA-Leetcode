@@ -294,12 +294,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
