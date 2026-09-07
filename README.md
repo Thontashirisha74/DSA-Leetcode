@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0398-random-pick-index) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0672-bulb-switcher-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0399-evaluate-division) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0397-integer-replacement](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0397-integer-replacement) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0672-bulb-switcher-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0672-bulb-switcher-ii) |
 ## Divide and Conquer
 |  |
