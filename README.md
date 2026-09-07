@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0398-random-pick-index](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0398-random-pick-index) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0292-nim-game) |
 | [0384-shuffle-an-array](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0398-random-pick-index) |
 | [0672-bulb-switcher-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -506,8 +508,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0398-random-pick-index) |
 ## Cartesian Tree
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0654-maximum-binary-tree) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
