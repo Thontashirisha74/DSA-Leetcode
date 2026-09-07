@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0722-remove-comments) |
+| [0724-find-pivot-index](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [1014-best-sightseeing-pair](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1089-duplicate-zeros](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1089-duplicate-zeros) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -590,4 +591,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
