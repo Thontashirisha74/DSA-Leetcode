@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0720-longest-word-in-dictionary](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1014-best-sightseeing-pair](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1089-duplicate-zeros](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1089-duplicate-zeros) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0720-longest-word-in-dictionary](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0398-random-pick-index) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0720-longest-word-in-dictionary](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Database
 |  |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0720-longest-word-in-dictionary](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -498,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0720-longest-word-in-dictionary](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## Brainteaser
 |  |
 | ------- |
