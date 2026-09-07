@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0044-wildcard-matching) |
 | [0334-increasing-triplet-subsequence](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0397-integer-replacement](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0397-integer-replacement) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
 |  |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0397-integer-replacement](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0397-integer-replacement) |
 | [0672-bulb-switcher-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0672-bulb-switcher-ii) |
 ## Divide and Conquer
 |  |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0397-integer-replacement) |
 | [1014-best-sightseeing-pair](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1014-best-sightseeing-pair) |
 ## Combinatorics
 |  |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0397-integer-replacement) |
 ## Backtracking
 |  |
 | ------- |
