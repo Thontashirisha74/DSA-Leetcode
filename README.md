@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0070-climbing-stairs) |
