@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0492-construct-the-rectangle](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0672-bulb-switcher-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
