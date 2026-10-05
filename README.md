@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0399-evaluate-division) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0520-detect-capital](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0709-to-lower-case) |
