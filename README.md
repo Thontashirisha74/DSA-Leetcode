@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0397-integer-replacement](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0397-integer-replacement) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
 |  |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0394-decode-string) |
 | [0654-maximum-binary-tree](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Design
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0722-remove-comments) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
