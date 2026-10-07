@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0610-triangle-judgement) |
 | [0626-exchange-seats](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1045-customers-who-bought-all-products) |
