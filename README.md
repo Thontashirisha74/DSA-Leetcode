@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1321-restaurant-growth) |
+| [1683-invalid-tweets](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1683-invalid-tweets) |
 ## Queue
 |  |
 | ------- |
