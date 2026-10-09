@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0610-triangle-judgement) |
+| [0620-not-boring-movies](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1148-article-views-i](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1148-article-views-i) |
