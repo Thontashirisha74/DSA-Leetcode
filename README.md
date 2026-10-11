@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1291-sequential-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## String
 |  |
 | ------- |
