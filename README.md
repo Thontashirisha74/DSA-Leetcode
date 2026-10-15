@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1045-customers-who-bought-all-products) |
+| [1068-product-sales-analysis-i](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1193-monthly-transactions-i) |
