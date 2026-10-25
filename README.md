@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-restaurant-growth](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1517-find-users-with-valid-e-mails](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1683-invalid-tweets](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1683-invalid-tweets) |
 ## Queue
 |  |
