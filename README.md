@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0661-image-smoother](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0661-image-smoother) |
 | [1254-number-of-closed-islands](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0721-accounts-merge) |
 | [1254-number-of-closed-islands](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0672-bulb-switcher-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0721-accounts-merge](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0721-accounts-merge) |
 | [1254-number-of-closed-islands](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -572,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0672-bulb-switcher-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0721-accounts-merge](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0721-accounts-merge) |
 | [1254-number-of-closed-islands](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
