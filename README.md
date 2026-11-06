@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0721-accounts-merge) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2747-count-zero-request-servers](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [2747-count-zero-request-servers](https://github.com/Thontashirisha74/DSA-Leetcode/tree/master/2747-count-zero-request-servers) |
 ## Stack
 |  |
 | ------- |
